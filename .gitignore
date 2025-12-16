@@ -1,0 +1,20 @@
+# Ignore backend .env
+Fitfinder_backend/.env
+
+# Ignore frontend .env (if you use one)
+Fitfinder_Platform_UI/.env
+
+# Node modules and build artifacts
+Fitfinder_Platform_UI/node_modules/
+Fitfinder_Platform_UI/dist/
+
+# IDE configs
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java build artifacts
+Fitfinder_backend/target/
